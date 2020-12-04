@@ -42,7 +42,7 @@
     "tape": "^4.5.1"
   },
   "dependencies": {
-    "@asoltys/bitcoin-ops": "^2.0.0",
-    "@asoltys/pushdata-bitcoin": "^1.1.0"
+    "@asoltys/bitcoin-ops": "^2.0.1",
+    "@asoltys/pushdata-bitcoin": "^1.1.3"
   }
 }
