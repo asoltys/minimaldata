@@ -1,6 +1,6 @@
 {
   "name": "@asoltys/minimaldata",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A module to check bitcoin policy: SCRIPT_VERIFY_MINIMALDATA",
   "keywords": [
     "minimal",
